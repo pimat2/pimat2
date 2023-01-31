@@ -12,7 +12,7 @@
   <h2>Check my LinkedIn Profile</h2>
 </div>
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/daniel-batalski">
+  <a href="https://www.linkedin.com/in/daniel-batalski/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" width="170" height="60"/>
   </a>
 <div id="profile-views" align="center">
