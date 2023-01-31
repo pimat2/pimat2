@@ -13,20 +13,24 @@
 </div>
 <div id="badges" align="center">
   <a href="www.linkedin.com/in/daniel-batalski">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" width="150" height="70"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" width="170" height="60"/>
   </a>
 <div id="profile-views" align="center">
   
   ![](https://komarev.com/ghpvc/?username=pimat2&color=orange)
 
 </div>
+  <h3></h3>
   
-<div id="top-langs" align="center">
-    
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pimat2&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=pimat2&theme=highcontrast&show_icons=true&count_private=true)
+ 
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=pimat2&layout=compact)
+
+ 
 
   
-</div>  
+  
 <!--
 **pimat2/pimat2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
